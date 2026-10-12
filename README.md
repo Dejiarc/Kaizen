@@ -1,0 +1,2 @@
+# Kaizen
+My first repo
