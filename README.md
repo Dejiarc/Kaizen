@@ -1,2 +1,3 @@
 # Kaizen
 My first repo
+Nothing much navigating github with this repo....
